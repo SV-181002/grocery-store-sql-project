@@ -344,11 +344,11 @@ Possible improvements include:
 
 ## 👨‍💻 Author
 
-**Vamsi Krishna**
+**Durgampudi S V Krishna Reddy**
 
 MCA — Computer Science
 
-GitHub: **Vamsi-2002AD**
+GitHub: **SV-181002**
 
 ---
 
